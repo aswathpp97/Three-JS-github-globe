@@ -1,0 +1,24 @@
+{
+  "name": "three-js-github-globe",
+  "description": "Globe implemented using threeJS inspired by github home page",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "github globe",
+    "globe",
+    "threeJS"
+  ],
+  "author": "aswath",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "three": "^0.136.0"
+  }
+}
